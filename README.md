@@ -27,6 +27,7 @@ Only tested in Ubuntu 15.10 with python 2.7
 - [SWAP] Soil Water Atmosphere Plant
 - [Hydrus-1D] Hydrus 1D
 
+<!--
 ### Contains
 
 1. Folder: src
@@ -34,6 +35,7 @@ Only tested in Ubuntu 15.10 with python 2.7
 ### Advantages
 
 	1. Python based 
+-->
 
 ### Limitations
 
@@ -74,8 +76,8 @@ C. Other Crop Simulation Environment
 
 - [SWAP] Soil Water Plant Atmosphere framework.
 - [Hydrus-1D] a public domain Windows-based modeling environment for analysis of water flow and solute transport in variably saturated porous media. Designed by [pc-progress].
-- [WOFOST] (WOrld FOod STudies) is a simulation model for the quantitative analysis of the growth and production of annual field crops.
-- [APSIM] The Agricultural Production Systems sIMulator (APSIM) a highly advanced simulator of agricultural systems.
+- WOrld FOod STudies [WOFOST] is a simulation model for the quantitative analysis of the growth and production of annual field crops.
+- The Agricultural Production Systems sIMulator [APSIM] a highly advanced simulator of agricultural systems.
 
 <!--
 #### Snapshots
@@ -107,11 +109,11 @@ C. Other Crop Simulation Environment
 [python-telegram-bot]: <https://github.com/python-telegram-bot/python-telegram-bot>
 [IWC project]: <http://itra.medialabasia.in/?p=623>
 [Python-SOS-Client]: <https://github.com/suryakant54321/Python-SOS-Client>
-[PCSE]:<http://pcse.readthedocs.io/en/stable/index.html>
-[SWAP]:<http://www.swap.alterra.nl/>
-[Hydrus-1D]:<http://www.pc-progress.com/en/Default.aspx?h1d-library>
-[pc-progress]:<http://www.pc-progress.com/en/>
-[WOFOST]:<http://www.wageningenur.nl/en/Expertise-Services/Research-Institutes/alterra/Facilities-Products/Software-and-models/WOFOST.htm>
-[APSIM]:<https://www.apsim.info/>
+[PCSE]: <http://pcse.readthedocs.io/en/stable/index.html>
+[SWAP]: <http://www.swap.alterra.nl/>
+[Hydrus-1D]: <http://www.pc-progress.com/en/Default.aspx?h1d-library>
+[pc-progress]: <http://www.pc-progress.com/en/>
+[WOFOST]: <http://www.wageningenur.nl/en/Expertise-Services/Research-Institutes/alterra/Facilities-Products/Software-and-models/WOFOST.htm>
+[APSIM]: <https://www.apsim.info/>
 
 
